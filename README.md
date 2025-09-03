@@ -1,4 +1,14 @@
-## Hi there 👋
+
+# 👋 Hi, I'm Fahad Hossain
+
+**AI Integration Engineer | Python Developer | Applied Machine Learning**
+
+- 🔧 Skills: Python, REST APIs, HTTP automation, Postman, Git/GitHub  
+- 🤖 ML: Regression, Random Forest, XGBoost, Model deployment basics  
+- 🛠️ Current: Building API orchestration & ML inference endpoints  
+- 🎯 Goal: Deliver production-ready integrations that help businesses automate  
+
+📫 Reach me: fahad.integration.ml@gmail.com## Hi there 👋
 
 <!--
 **fahadai-dev/fahadai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

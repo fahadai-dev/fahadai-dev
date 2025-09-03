@@ -8,7 +8,7 @@
 - 🛠️ Current: Building API orchestration & ML inference endpoints  
 - 🎯 Goal: Deliver production-ready integrations that help businesses automate  
 
-📫 Reach me: fahad.integration.ml@gmail.com## Hi there 👋
+📫 Reach me: fahad.integration.ml@gmail.com
 
 <!--
 **fahadai-dev/fahadai-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

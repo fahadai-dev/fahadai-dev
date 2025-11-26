@@ -28,5 +28,5 @@ My goal is to deliver production-ready integrations that minimize friction, maxi
 
 ---
 
-### 📧 Reach me:fahad.integration.ml@gmail.com
+### 📧 Reach me: fahad.integration.ml@gmail.com
 
